@@ -4,6 +4,22 @@
 This project is based on the ClassicModels sample database in MySQL.  
 The goal is to perform SQL Exploratory Data Analysis (EDA) using different SQL concepts.  
 
+## 📂 Dataset
+This project uses the ClassicModels sample database.  
+You can find the SQL file here: [Classicmodel.sql] 
+
+### 🔹 How to Import
+1. Open MySQL Workbench.  
+2. Go to *Server > Data Import*.  
+3. Select *Import from Self-Contained File* and choose classicmodels.sql.  
+4. Click *Start Import*.  
+5. Refresh schemas and start running queries.
+
+
+
+
+
+
 ## 📊 Topics Covered
 - **Basic Exploration** (SELECT, WHERE, filtering) <br>
   *Definition:* Basic queries used to explore data from a single table. <br> 
