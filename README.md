@@ -6,7 +6,7 @@ The goal is to perform SQL Exploratory Data Analysis (EDA) using different SQL c
 
 ## 📂 Dataset
 This project uses the ClassicModels sample database.  
-You can find the SQL file here: [Classicmodel.sql] 
+You can find the SQL file here: [Classicmodel.sql] (https://github.com/GayatriNawade/ClassicModels-SQL-Project/blob/80c66fb1a6d518006351af006bf6917034cd0ab2/mysqlsampledatabase.sql)
 
 ### 🔹 How to Import
 1. Open MySQL Workbench.  
