@@ -4,7 +4,7 @@
   Name: MySQL Sample Database classicmodels
 */
 /* Create the database */
-CREATE DATABASE  IF NOT EXISTS classicmodels;
+CREATE DATABASE classicmodels;
 
 USE classicmodels;
  
