@@ -73,5 +73,6 @@ You can find the SQL file here: [Classicmodel.sql] (https://github.com/GayatriNa
 2. Open the 'SQL_Project_file'.
 4. Run the queries in MySQL Workbench to see the results.
 
-## 👩‍💻 Author
-- Gayatri Nawade
+## Conclusion -
+
+This project demonstrates how SQL can be used to explore and analyze business data using the ClassicModels database. By applying joins, aggregations, subqueries, stored procedures, and advanced SQL clauses, meaningful insights were generated about sales, customers, and product performance. Overall, the project strengthens practical SQL skills and shows how data-driven decisions can be made using real-world datasets.
